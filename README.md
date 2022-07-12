@@ -18,3 +18,5 @@ This is a good example of [my code](https://gist.github.com/susanir/2208f0660ebf
 ### Image
 
 ![image](https://user-images.githubusercontent.com/4919802/155673762-3f01e611-bc8c-48ac-98a2-81b296ca6c61.png)
+
+[Jupyter Notebook](https://colab.research.google.com/drive/1Oug7YmxThmWgbSSJnBKqo8fW_S0lyYuC?hl=es#scrollTo=y8WCV5VIJRJ7) 
